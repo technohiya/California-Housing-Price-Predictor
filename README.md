@@ -55,4 +55,16 @@ docker build -t ml-model-app .
 ### Run Container
 
 docker run -p 8000:8000 ml-model-app
+![WhatsApp Image 2026-02-22 at 00 18 04](https://github.com/user-attachments/assets/7c77c895-5518-425c-95c8-65ab6d3b7327)
+
+
+open your browser and navigate to http://localhost:8081/docs. 
+
+![WhatsApp Image 2026-02-22 at 00 18 46](https://github.com/user-attachments/assets/6e783dce-6397-437f-84cf-57d46a120526)
+
+
+![WhatsApp Image 2026-02-22 at 00 19 26](https://github.com/user-attachments/assets/e34634a5-9143-4766-b4d2-915470b74050)
+
+
+
 ---
